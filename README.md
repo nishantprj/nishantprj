@@ -14,5 +14,6 @@
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nishantprj&show_icons=true&count_private=true&theme=algolia" alt="Nishant's stats card"/> </p>
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnishantprj&countColor=%230195dd&style=flat&labelStyle=upper)
 <!---[Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnishantprj&countColor=%230195dd)--->
 <!---a href="https://github.com/nishantprj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantprj&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/nishantprj/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantprj&layout=compact&theme=algolia&hide_border=true" /></a--->
