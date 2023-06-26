@@ -14,7 +14,7 @@
  - [**LinkedIn**](https://www.linkedin.com/in/nishant-prajapati-profile/) <a href="https://www.linkedin.com/in/nishant-prajapati-profile/" target="_blank"></a>
  - [**Behance Portfolio**](https://www.behance.net/nishantprajapati)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantprj&show_icons=true&locale=en&layout=compact" alt="Nishant" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantprj&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Nishant" /></p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nishantprj&show_icons=true&count_private=true&theme=algolia" alt="Nishant's stats card"/> </p>
 
